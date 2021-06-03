@@ -1,6 +1,6 @@
 # main text of home
-name: Mubroki
-bio: A Man who travels the world eating noodles
+name: Akhmad Nushoir Mubaroki
+bio: A Social Introvert & IT Enthusiast
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: anmubaraoki
+twitter: anmubaroki
+instagram: anmubaroki
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mubaroki
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: an@mubaroki.com
 
 authors:
   johndoe:
@@ -80,11 +80,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -123,7 +123,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://github.com
+  base_url: https://mubaroki.com
 
 compress_html:
   ignore:
