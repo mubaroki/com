@@ -1,9 +1,9 @@
 # main text of home
 name: Akhmad Nushoir Mubaroki
-bio: A Social Introvert & IT Enthusiast
+bio: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI. Im a Social Introvert & IT Enthusiast.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI. Im a Social Introvert & IT Enthusiast.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.linkedin.com/in/mubaroki
 
-url: https://mubaroki.github.io/indigo
+url: https://mubaroki.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: anmubaraoki
+facebook: anmubaroki
 twitter: anmubaroki
 instagram: anmubaroki
 # pinterest: mypinterest
