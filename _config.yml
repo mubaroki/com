@@ -7,8 +7,8 @@ description: Since born on August 29, many people usually call me OKI. But, from
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://pbs.twimg.com/profile_images/1083432197917335552/GMTQneb5_400x400.jpg
+external-image: false
+picture: assets/4x6_Akhmad Nushoir Mubaroki.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
