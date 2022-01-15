@@ -1,9 +1,9 @@
 # main text of home
 name: Akhmad Nushoir Mubaroki
-bio: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI. Im a Social Introvert & IT Enthusiast.
+bio: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI.
 
 # twitter summary info
-description: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI. Im a Social Introvert & IT Enthusiast.
+description: Since born on August 29, many people usually call me OKI. But, from elementary school I have famous name MUBAROKI.
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: anmubaroki
-twitter: anmubaroki
+#facebook: anmubaroki
+#twitter: anmubaroki
 instagram: anmubaroki
 # pinterest: mypinterest
 linkedin: mubaroki
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: mubaroki
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
